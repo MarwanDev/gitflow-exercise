@@ -1,2 +1,2 @@
 # gitflow-exercise
-A repo for practicing Gitflow
+A repo for practicing Gitflow 
